@@ -1,6 +1,7 @@
 import sys,os,socket
 import threading
 
+
 if len(sys.argv) != 2:
     print("Usage: python server.py <input file>")
     exit(1)
