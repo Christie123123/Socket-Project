@@ -1,5 +1,6 @@
 import sys,os,socket
 
+
 if len(sys.argv) != 3:
     print("Usage: python client.py <server> <output file>")
     exit(1)
