@@ -1,0 +1,40 @@
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
+PING icelollylaptop.ddns.net (172.17.240.38): 56 data bytes
+64 bytes from 172.17.240.38: icmp_seq=0 ttl=64 time=16.682 ms
+64 bytes from 172.17.240.38: icmp_seq=1 ttl=64 time=40.680 ms
+64 bytes from 172.17.240.38: icmp_seq=2 ttl=64 time=180.004 ms
+64 bytes from 172.17.240.38: icmp_seq=3 ttl=64 time=212.698 ms
